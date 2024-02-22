@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+.image-items img{
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px;
+}
+.image-items img:hover{
+  box-shadow: 1px 0px 3px 3px gray;
+}
+.navbar{
+  background-image: linear-gradient(rgb(167, 55, 55),rgb(204, 204, 138));
+}
+.selected-image{
+  width: 100%;
+
+}
+.selected-image img{
+  width: 80%;
+  height: 80%;
+  box-shadow: 1px 0px 3px 3px gray;
+}
+hr{
+  color: rgb(12, 12, 69);
+  font-size: 2px;
+  border: 1px solid black;
+}
