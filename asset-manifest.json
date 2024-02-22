@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Image-gallery/static/css/main.dfdceb4d.css",
+    "main.js": "/Image-gallery/static/js/main.fa2d7061.js",
+    "static/js/453.fe5b1732.chunk.js": "/Image-gallery/static/js/453.fe5b1732.chunk.js",
+    "static/media/powerbanks.webp": "/Image-gallery/static/media/powerbanks.89f19b70d20967042f98.webp",
+    "static/media/camera.webp": "/Image-gallery/static/media/camera.16c610844beb45af3326.webp",
+    "static/media/printer.webp": "/Image-gallery/static/media/printer.70e3cb8e13daf536e05a.webp",
+    "index.html": "/Image-gallery/index.html",
+    "main.dfdceb4d.css.map": "/Image-gallery/static/css/main.dfdceb4d.css.map",
+    "main.fa2d7061.js.map": "/Image-gallery/static/js/main.fa2d7061.js.map",
+    "453.fe5b1732.chunk.js.map": "/Image-gallery/static/js/453.fe5b1732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfdceb4d.css",
+    "static/js/main.fa2d7061.js"
+  ]
+}
